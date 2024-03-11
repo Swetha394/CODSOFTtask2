@@ -1,0 +1,48 @@
+Select operation:
+    1. Add
+    2. Subtract
+    3. Multiply
+    4. Divide
+    5. Exit
+Enter choice (1/2/3/4/5): 1
+Enter first number: 35
+Enter second number: 15
+ 35.0 + 15.0 = 50.0
+Select operation:
+   1. Add
+   2. Subtract
+   3. Multiply
+   4. Divide
+   5. Exit
+Enter choice (1/2/3/4/5): 2
+Enter first number: 70
+Enter second number: 40
+70.0 - 40.0 = 30.0
+Select operation:
+   1. Add
+   2. Subtract
+   3. Multiply
+   4. Divide
+   5. Exit
+Enter choice (1/2/3/4/5): 3
+Enter first number: 20
+Enter second number: 30
+20.0 * 30.0 = 600.0
+Select operation:
+   1. Add
+   2. Subtract
+   3. Multiply
+   4. Divide
+   5. Exit
+Enter choice (1/2/3/4/5): 4
+Enter first number: 200
+Enter second number: 12
+200.0 / 12.0 = 16.666666666666668
+Select operation:
+   1. Add
+   2. Subtract
+   3. Multiply
+   4. Divide
+   5. Exit
+Enter choice (1/2/3/4/5): 5
+Exiting the calculator. Goodbye!
